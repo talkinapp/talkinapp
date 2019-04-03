@@ -1,0 +1,8 @@
+{ 
+  "notiOn" : "false",
+  "notiTitle" : "공지",
+  "notiMsg" : "감사합니다",
+  "notiPositiveText" : "확인",
+  "notiNegativeText" : "취소",
+  "version" : "1.0.0"
+}
